@@ -2,12 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Signika");
 @import url("https://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css");
 @import url("https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css");
-
-
-
-/* Please ❤ this if you like it! */
-
-
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 
@@ -32,9 +26,6 @@ a {
 a:hover {
 	text-decoration: none;
 }
-
-/* #Cursor
-================================================== */
 
 .cursor,
 .cursor2,
@@ -83,9 +74,6 @@ a:hover {
 	}
 }
 
-/* #Primary style
-================================================== */
-
 .section {
     position: relative;
 	width: 100%;
@@ -97,9 +85,6 @@ a:hover {
 .full-height {
 	height: 100vh;
 }
-
-/* #Navigation
-================================================== */
  
 .cd-header{
     position: fixed;
@@ -478,9 +463,6 @@ body.nav-active .nav__list-item:nth-child(10) {
 	background: #000;
 }
 
-/* #Light
-================================================== */
-
 body.light{
 	background-color: #fff;
 }
@@ -531,8 +513,6 @@ body.light .switch-wrap p span:nth-child(1):before {
 	opacity: 0;
 }
 
-/* #Link to page
-================================================== */
 .link-to-portfolio {
 	  position: fixed;
     bottom: 40px;
